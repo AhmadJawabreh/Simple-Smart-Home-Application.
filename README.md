@@ -1,5 +1,4 @@
-# smart-home-
-Simple Smart Home Application.
+# Simple Smart Home Application.
 This application aims to control three devices and get the humidity and temperature in your home.
 this application is divided into two parts (hardware and software):
 The hardware part consists of the following devices:
